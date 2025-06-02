@@ -134,8 +134,8 @@ if st.session_state.invoices:
                             padding: 30px;
                             max-width: 600px;
                             margin: auto;
-                            border-radius: 10px;
-                            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+                            border-radius: 5px;
+                            box-shadow: 0 0 5px rgba(0,0,0,0.05);
                         }}
                         h2 {{
                             color: #003366;
